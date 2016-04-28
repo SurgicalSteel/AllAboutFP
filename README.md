@@ -5,7 +5,7 @@ Thanks to <a href="www.tryfsharp.org/">www.tryfsharp.org/</a> for providing good
 After I understand the core of Functional Programming using F#, I will try other FP languages like Haskell or OCaml or Scala or Clojure or even freakin' Erlang.<br>So, I will need your suggestion after I've mastered F#.<br>
 \m/
 <br>
-<i>SurgicalSteel</i>
+<u>SurgicalSteel</u>
 <br><br><br><br><br><br><br>
 <p alignment="right">
 <img src="http://fsharp.org/img/logo/fsharp256.png"/>
